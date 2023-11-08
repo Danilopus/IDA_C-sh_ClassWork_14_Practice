@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "IDA_C-sh_ClassWork_14_Practice": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
